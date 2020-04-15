@@ -14,6 +14,7 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
+import '@undefinedlabs/scope-agent/cypress/support';
 import './commands';
 
 // Alternatively you can use CommonJS syntax:
