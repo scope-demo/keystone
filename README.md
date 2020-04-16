@@ -14,6 +14,7 @@
 [![Build Status](https://img.shields.io/circleci/project/github/keystonejs/keystone/master.svg)](https://circleci.com/gh/keystonejs/keystone)
 [![slack](https://keystone-community.now.sh//badge.svg)](https://keystone-community.now.sh/)
 [![Supported by Thinkmill](https://thinkmill.github.io/badge/heart.svg)](http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=react-select)
+[![Scope](https://app.scope.dev/api/badge/8fc7420f-2d8c-4360-92d7-6830fe456b62/default)](https://app.scope.dev/external/v1/inspect/b774c8da-2494-4ede-8d2f-b0321ff3cd7c/8fc7420f-2d8c-4360-92d7-6830fe456b62/default)
 
 ## Contents
 
