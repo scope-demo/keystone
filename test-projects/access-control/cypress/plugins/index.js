@@ -7,7 +7,6 @@
 // You can read more here:
 // https://on.cypress.io/plugins-guide
 // ***********************************************************
-const { initCypressPlugin } = require('@undefinedlabs/scope-agent/cypress/plugin');
 const mongoose = require('mongoose');
 const inflection = require('inflection');
 
@@ -47,6 +46,5 @@ module.exports = async (on, config) => {
         .then(({ insertedId }) => ({ id: insertedId })),
   });
 
-  const newConfig = await initCypressPlugin(on, config);
-  return newConfig;
+  return config;
 };
